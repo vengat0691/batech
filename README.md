@@ -12,7 +12,7 @@
 # BA Technologies
 
 ## Project setup
-git clone fr
+git clone https://github.com/vengat0691/batech.git
 
 ## .env Setup
 
